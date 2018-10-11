@@ -75,6 +75,11 @@ a:hover {
     flex-direction: column;
     
   }
-  
+  .flex-nav ul li {
+    width: 100%;
+  }
+  .flex-nav ul .social { 
+    width: 100%;
+  }
+  }
 
-}
