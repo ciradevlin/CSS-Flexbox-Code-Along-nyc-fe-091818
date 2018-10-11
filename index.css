@@ -71,6 +71,9 @@ a:hover {
 }
 
 @media all and (max-width:500px) {
+  .flex-nav ul { 
+    flex-direction: column;
+  }
   
 
 }
