@@ -61,7 +61,7 @@ a:hover {
     flex-wrap: wrap;
   }
   
-  .flex-nav ul { 
+  .flex-nav ul li { 
     width: 50%;
 }
 
@@ -73,6 +73,7 @@ a:hover {
 @media all and (max-width:500px) {
   .flex-nav ul { 
     flex-direction: column;
+    
   }
   
 
