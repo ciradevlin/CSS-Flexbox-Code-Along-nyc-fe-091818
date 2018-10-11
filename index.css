@@ -55,9 +55,15 @@ a:hover {
   flex-grow: 1;
   
 }
-
+/* tablet */
 @media all and (max-width:1000px) {
+  .flex-nav ul { 
+    flex-wrap: wrap;
+  }
   
+  .flex ul li { 
+    width: 50%;
+}
 
 }
 
