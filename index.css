@@ -61,10 +61,13 @@ a:hover {
     flex-wrap: wrap;
   }
   
-  .flex-nav ul li { 
+  .flex-nav ul { 
     width: 50%;
 }
 
+.flex-nav ul .social {
+  width: 25%;
+}
 }
 
 @media all and (max-width:500px) {
