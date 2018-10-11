@@ -52,6 +52,9 @@ a:hover {
 }
 
 .flex-nav ul .social {
+  flex-grow: 1;
+  
+}
 
 @media all and (max-width:1000px) {
   
